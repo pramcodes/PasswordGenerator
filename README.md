@@ -10,7 +10,7 @@
 - **Customizable Passwords:** Choose from various character types and length to tailor your password.
 - **Secure and Random:** Generates strong and random passwords for enhanced security.
 - **User-Friendly Interface:** Simple and intuitive interface for easy password generation.
-- 
+
 ## Getting Started
 
 Follow these steps to get started with the Password generator:
